@@ -1,0 +1,263 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:44:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:44:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:45:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:46:20] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:46:33] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:49:03] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:49:04] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:49:05] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:49:56] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:49:57] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:50:02] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:50:04] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 03:50:11] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:05:54] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:06:00] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:06:02] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:06:26] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:06:28] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:06:29] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:06:38] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:08:09] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:08:11] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:08:13] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:08:43] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:09:12] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:09:21] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:22:05] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:22:11] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:22:34] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:22:40] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:22:41] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:23:02] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:23:47] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:23:48] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:23:49] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:23:49] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:23:50] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:23:51] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:23:58] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:24:13] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:24:18] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:24:20] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:24:24] "[33mOPTIONS /api/balance-sheet HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:24:32] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:25:40] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:25:53] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:26:07] "[31m[1mGET /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:26:19] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:26:23] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:27:22] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:27:23] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:27:24] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:27:29] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:27:52] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:28:38] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:28:39] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:28:50] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:28:52] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:29:11] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:29:19] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:29:26] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:29:26] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:42:13] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:42:18] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:42:22] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:42:23] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:42:24] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:42:28] "[33mOPTIONS /api/loan-application HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:00] "[31m[1mGET /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:00] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:00] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:00] "OPTIONS /api/loan-application HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:00] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:00] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:00] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:00] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:00] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:05] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:13] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:38] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:47:44] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:48:44] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:49:12] "[31m[1mGET /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:49:31] "[31m[1mGET /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:52:15] "[31m[1mGET /api/balance-sheet HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:52:24] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:52:42] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:52:46] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:52:47] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:54:37] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:54:37] "[31m[1mPOST /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:54:42] "[31m[1mPOST /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:54:44] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:54:44] "[31m[1mPOST /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:54:45] "[31m[1mPOST /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:54:48] "[31m[1mPOST /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:57:21] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:57:21] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:57:38] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:57:38] "[31m[1mPOST /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:57:41] "[31m[1mPOST /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:58:10] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:58:25] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:58:25] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:58:38] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:58:38] "[31m[1mPOST /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:58:41] "[31m[1mPOST /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 04:59:59] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:00:00] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:08:33] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:08:33] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:08:40] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:08:40] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:08:52] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:08:52] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:11:40] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:11:40] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:11:50] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:11:51] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:12:14] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:12:14] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:12:38] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:12:38] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:12:52] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:12:52] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:17:51] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:17:51] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:24:28] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:24:29] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:25:16] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:25:17] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:25:29] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:25:30] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:25:37] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:25:37] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:26:40] "OPTIONS /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 05:26:40] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:00] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:00] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:01] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:01] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:17] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:18] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:18] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:18] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:18] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:18] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:19] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:19] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:19] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:22] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:23] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:23] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:28] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:29] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:38] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:39] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:39] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:39] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:39] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:39] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:39] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:40] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:40] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:40] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:40] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:11:40] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:02] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:03] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:04] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:04] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:04] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:05] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:42] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:43] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:43] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:44] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:12:44] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:13:21] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:13:22] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:13:22] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:13:24] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:13:42] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:13:55] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:14:03] "[31m[1mGET /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:16:41] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:34:24] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\code\\loan_application_system\\backend\\app\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:45:43] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:45:51] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:45:52] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:45:52] "POST /api/balance-sheet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:46:29] "[31m[1mGET /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2023 11:46:33] "[31m[1mGET /api/balance-sheet HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Restarting with stat
